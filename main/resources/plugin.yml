@@ -1,8 +1,0 @@
-name: KoEnderChest
-version: '${project.version}'
-main: com.xope4ek.koenderchest.KoEnderChest
-api-version: '1.21'
-commands:
-  koec:
-    description: Open EnderChest
-
