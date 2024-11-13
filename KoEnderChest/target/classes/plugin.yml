@@ -1,0 +1,8 @@
+name: KoEnderChest
+version: '1.21'
+main: com.xope4ek.koenderchest.KoEnderChest
+api-version: '1.21'
+commands:
+  koec:
+    description: Open EnderChest
+
